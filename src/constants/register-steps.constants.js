@@ -1,0 +1,1 @@
+export const SAVE_FORM_POSITION = 'SAVE_FORM_POSITION'
